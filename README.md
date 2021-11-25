@@ -16,3 +16,4 @@ git clone https://github.com/official-hack4peace/computervirus
 ### |gta5.bat | This will make the CD drives constantly pop out.|
 ### |watchdog2.bat | This will delete your whole C:\ drive and it really unrecoverable.|
 ### |residentevil8 | disable any antivirus installed on the system.|
+### |godofwar4 | It will start to open different applications repeatedly which will affect the system’s performance. (You can also add some other applications by your self)|
